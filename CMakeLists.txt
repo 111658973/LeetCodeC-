@@ -3,4 +3,5 @@ project(LeetcodeC__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LeetcodeC__ main.cpp)
+add_executable(LeetcodeC__ main.cpp
+        question/283_MoveZeros.cpp)
