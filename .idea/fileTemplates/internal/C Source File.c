@@ -5,6 +5,8 @@
 
 #[[#include]]# "../config/algorithm_tags.h"
 #[[#include]]# <iostream>
+#[[#include]]# <vector>
+
 using namespace std;
 
 class Solution {
