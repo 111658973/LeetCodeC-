@@ -11,6 +11,10 @@
 #define OFFICIAL(description)     // 标记官方解法
 #define DYNAMIC_PROG(description)  // 标记动态规划解法
 #define SLIDING_WINDOW(description) //滑动窗口解法
+#define GREEDY(description)    //贪婪算法
+
+
+
 
 // #define BRUTE_FORCE  // 标记暴力解法
 // #define OFFICIAL     // 标记官方解法
