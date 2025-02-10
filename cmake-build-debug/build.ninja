@@ -67,12 +67,6 @@ build CMakeFiles/LeetcodeC__.dir/question/3066_MinimumOperationsToExceedThreshol
   OBJECT_DIR = CMakeFiles\LeetcodeC__.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetcodeC__.dir\question
 
-build CMakeFiles/LeetcodeC__.dir/question/3095_ShortestSubarrayWithORAtLeastK_I_.cpp.obj: CXX_COMPILER__LeetcodeC___unscanned_Debug D$:/Cc/Data/ClionProjects/LeetcodeC++/question/3095_ShortestSubarrayWithORAtLeastK_I$ .cpp || cmake_object_order_depends_target_LeetcodeC__
-  DEP_FILE = CMakeFiles\LeetcodeC__.dir\question\3095_ShortestSubarrayWithORAtLeastK_I_.cpp.obj.d
-  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\LeetcodeC__.dir
-  OBJECT_FILE_DIR = CMakeFiles\LeetcodeC__.dir\question
-
 build CMakeFiles/LeetcodeC__.dir/question/2239_FindClosestNumberToZero.cpp.obj: CXX_COMPILER__LeetcodeC___unscanned_Debug D$:/Cc/Data/ClionProjects/LeetcodeC++/question/2239_FindClosestNumberToZero.cpp || cmake_object_order_depends_target_LeetcodeC__
   DEP_FILE = CMakeFiles\LeetcodeC__.dir\question\2239_FindClosestNumberToZero.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
@@ -97,6 +91,12 @@ build CMakeFiles/LeetcodeC__.dir/question/1207UniqueNumberOfOccurrences.cpp.obj:
   OBJECT_DIR = CMakeFiles\LeetcodeC__.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetcodeC__.dir\question
 
+build CMakeFiles/LeetcodeC__.dir/question/1561_MaximumNumberOfCoinsYouCanGet.cpp.obj: CXX_COMPILER__LeetcodeC___unscanned_Debug D$:/Cc/Data/ClionProjects/LeetcodeC++/question/1561_MaximumNumberOfCoinsYouCanGet.cpp || cmake_object_order_depends_target_LeetcodeC__
+  DEP_FILE = CMakeFiles\LeetcodeC__.dir\question\1561_MaximumNumberOfCoinsYouCanGet.cpp.obj.d
+  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LeetcodeC__.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetcodeC__.dir\question
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetcodeC__
@@ -105,7 +105,7 @@ build CMakeFiles/LeetcodeC__.dir/question/1207UniqueNumberOfOccurrences.cpp.obj:
 #############################################
 # Link the executable LeetcodeC__.exe
 
-build LeetcodeC__.exe: CXX_EXECUTABLE_LINKER__LeetcodeC___Debug CMakeFiles/LeetcodeC__.dir/main.cpp.obj CMakeFiles/LeetcodeC__.dir/question/283_MoveZeros.cpp.obj CMakeFiles/LeetcodeC__.dir/question/3066_MinimumOperationsToExceedThresholdValue.cpp.obj CMakeFiles/LeetcodeC__.dir/question/3095_ShortestSubarrayWithORAtLeastK_I_.cpp.obj CMakeFiles/LeetcodeC__.dir/question/2239_FindClosestNumberToZero.cpp.obj CMakeFiles/LeetcodeC__.dir/question/724_FindPivotIndex.cpp.obj CMakeFiles/LeetcodeC__.dir/question/2215_FindTheDifferenceOfTwoArrays.cpp.obj CMakeFiles/LeetcodeC__.dir/question/1207UniqueNumberOfOccurrences.cpp.obj
+build LeetcodeC__.exe: CXX_EXECUTABLE_LINKER__LeetcodeC___Debug CMakeFiles/LeetcodeC__.dir/main.cpp.obj CMakeFiles/LeetcodeC__.dir/question/283_MoveZeros.cpp.obj CMakeFiles/LeetcodeC__.dir/question/3066_MinimumOperationsToExceedThresholdValue.cpp.obj CMakeFiles/LeetcodeC__.dir/question/2239_FindClosestNumberToZero.cpp.obj CMakeFiles/LeetcodeC__.dir/question/724_FindPivotIndex.cpp.obj CMakeFiles/LeetcodeC__.dir/question/2215_FindTheDifferenceOfTwoArrays.cpp.obj CMakeFiles/LeetcodeC__.dir/question/1207UniqueNumberOfOccurrences.cpp.obj CMakeFiles/LeetcodeC__.dir/question/1561_MaximumNumberOfCoinsYouCanGet.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetcodeC__.dir

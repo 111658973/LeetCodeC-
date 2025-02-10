@@ -57,11 +57,6 @@ public:
 
 };
 
-class Solution2 {
-public:
-    void moveZeros(vector<int> &nums) {
-    }
-};
 
 
 int main() {
